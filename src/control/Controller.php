@@ -7,8 +7,8 @@
  */
 
 /* Inclusion des classes nécessaires */
-require_once("../view/View.php");
-require_once("../model/ImageStorage.php");
+require_once("view/View.php");
+require_once("model/ImageStorage.php");
 
 class Controller {
 

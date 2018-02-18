@@ -6,7 +6,7 @@
  * Time: 15:08
  */
 
-require_once("../Router.php");
+require_once("Router.php");
 
 class View {
 

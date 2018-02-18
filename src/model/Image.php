@@ -17,7 +17,7 @@ class Image
         $this->title = $title;
         $this->image = $image;
         $this->author = $author;
-        $this->text = file_get_contents("texts/{$textFile}.frg.html", true);
+        $this->text = file_get_contents("texts/{$textFile}.html", true);
     }
 
     /* Renvoie le titre du poème */
