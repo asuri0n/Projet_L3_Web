@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c99da275-5b41-4929-815e-f1e2ba3f1534" name="FAC" url="http://dev-21404260.users.info.unicaen.fr">
+        <fileTransfer host="dev-21404260.users.info.unicaen.fr" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
