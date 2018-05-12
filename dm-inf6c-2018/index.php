@@ -31,7 +31,7 @@ if(SERVERHOST == "localhost")
 else if(SERVERHOST == "dev-21404260.users.info.unicaen.fr" or SERVERHOST == "dev-21402838.users.info.unicaen.fr")
 {
     DEFINE("USERNAME","21402838");
-    DEFINE("PASSWORD","Aiqu1IeVaeT8EC2b");
+    DEFINE("PASSWORD","");
     DEFINE("HOST","mysql.info.unicaen.fr");
     DEFINE("DB","21402838_dev");
 }
